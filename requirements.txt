@@ -1,0 +1,2 @@
+# Only needed for chart generation; simulation itself uses Python standard library.
+matplotlib>=3.7,<4

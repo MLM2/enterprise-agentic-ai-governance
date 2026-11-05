@@ -1,0 +1,9 @@
+{
+  "synthetic": true,
+  "model": "deterministic rule-based simulation",
+  "n_per_run": 1000,
+  "runs": 30,
+  "base_seed": 20261105,
+  "ci": "normal approximation to mean over independent seeds; descriptive only",
+  "limitations": "Rules and outcomes are design assumptions; no LLMs or real customers; no production validation."
+}
